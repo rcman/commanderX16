@@ -1,6 +1,8 @@
 ; Commander X16 Text Editor
 ; Full-featured editor with mouse support, menus, and customization
 ; Assemble with: cl65 -t cx16 -o EDITOR.PRG editor.asm
+; Written my R-C-MAN
+; https://github.com/rcman/commanderx16
 
 .org $0801
 
